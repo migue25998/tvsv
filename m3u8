@@ -1,0 +1,69 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png", CANAL 2 | TCS Canal 2 
+https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png", CANAL 4 |TCS Canal 4
+
+ 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png", CANAL 5 | TCS PLUS
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/d17513a3-9de2-47e3-b15a-899fd5f5877e.m3u8
+ 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png", CANAL 6 | TCS Canal 6
+https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
+
+#EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Agape-Canal-8.png", CANAL 8 | Agape TV
+https://usher.ttvnw.net/api/channel/hls/agapetv8.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=9696345&play_session_id=be32904f673005f93fcb5c220990fd89&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=a70d90cd76c3eac5fb963d7c6278877a349f4928&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22agapetv8%22%2C%22channel_id%22%3A767084046%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22835d77ff9dae2f8a%22%2C%22expires%22%3A1683594673%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.61.112.97%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.18.0
+
+#EXTINF:-1  tvg-logo="https://transparencia.asamblea.gob.sv/recursos_visuales/tv-legilativa-multimedia.png/image_preview", CANAL 9 | TV Legislativa
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-10---el-salvador--1987.png", CANAL 10 | Canal Estatal C10
+https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgMTI6MjE6MTAgQU0maGFzaF92YWx1ZT14UWd4K1FscWhxbjBiaFRMK2VINXlRPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ==
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TUTV_11_2014.png", CANAL 11 | TUTV
+https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png", CANAL 12 | RSM Canal 12
+https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8
+
+#EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-p4F59EIc5ts/XA3r2vE-6zI/AAAAAAAAAow/1lPlNgcXyKYIwOOCaYgY7cQRz5__GUO3gCLcBGAs/w1200-h630-p-k-no-nu/taber-tv.jpg", CANAL 17 | Taber TV
+https://5ca9af4645e15.streamlock.net/tabertv/videotabertv/playlist.m3u8?DVR
+
+
+#EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-19-El-Salvador-en-vivo-Online.png", CANAL 19 | MEGANOTICIAS 19
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-21-nacional_m.png", CANAL 21 | MEGAVISION
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://tvx.com.sv/wp-content/uploads/2023/01/Logo-ajustado.png", CANAL 22 | TVX
+https://usher.ttvnw.net/api/channel/hls/canaltvx.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=269946&play_session_id=c66f6602da930b42110890d535973197&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=aa09f325ba22cafadd0912082a44f2301c562c1d&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22canaltvx%22%2C%22channel_id%22%3A555123885%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22835d77ff9dae2f8a%22%2C%22expires%22%3A1683594761%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.61.112.97%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.18.0
+
+
+
+#EXTINF:-1  tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/8a/d3/b4/8ad3b412-70af-58e5-3df0-28e5e9b7d26e/source/512x512bb.jpg", CANAL 23 | TVO 
+https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgMTI6NDk6MTYgQU0maGFzaF92YWx1ZT0zendSNm02Q2RjblZGR2taRlRqRTVBPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+
+#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png", CANAL 24 | Wow TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://orbitatv.com.sv/wp-content/uploads/2023/02/LOGO-ORBITA-TV-AZUL-e1675794070422.png", CANAL 25 | Orbita TV
+https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3c/TVM-logo.jpg/revision/latest?cb=20190702172107&path-prefix=es", CANAL 26 | TVM
+https://usher.ttvnw.net/api/channel/hls/tvmelsalvador.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=2809163&play_session_id=cdc4eff078465712edbcb5ffc7aaaf18&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=16da1a928d1d526b4be35063c7b3b548f25745fb&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tvmelsalvador%22%2C%22channel_id%22%3A790093635%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22835d77ff9dae2f8a%22%2C%22expires%22%3A1683594438%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22twitch_everywhere%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.61.112.97%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.18.0
+
+
+#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-27-Elim-TV-en-vivo-Online.png", CANAL 27 | Elim TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/manifest.m3u8?p=79&h=973bf97fb3d1a1543819421ef2849f09
+
+
+
+
+
+
+
+
