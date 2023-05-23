@@ -1,7 +1,10 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="", CANAL 1
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png", CANAL 2 | TCS Canal 2 
 https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/.m3u8
+
+#EXTINF:-1  tvg-logo="", CANAL 3
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png", CANAL 4 |TCS Canal 4
 
@@ -11,6 +14,8 @@ https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f58
  
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png", CANAL 6 | TCS Canal 6
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
+
+#EXTINF:-1  tvg-logo="", CANAL 7
 
 #EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Agape-Canal-8.png", CANAL 8 | Agape TV
 https://usher.ttvnw.net/api/channel/hls/agapetv8.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=9696345&play_session_id=be32904f673005f93fcb5c220990fd89&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=a70d90cd76c3eac5fb963d7c6278877a349f4928&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22agapetv8%22%2C%22channel_id%22%3A767084046%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22835d77ff9dae2f8a%22%2C%22expires%22%3A1683594673%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.61.112.97%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.18.0
@@ -27,13 +32,24 @@ https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png", CANAL 12 | RSM Canal 12
 https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8
 
+#EXTINF:-1  tvg-logo="", CANAL 13
+
+#EXTINF:-1  tvg-logo="", CANAL 14
+
+#EXTINF:-1  tvg-logo="", CANAL 15
+
+#EXTINF:-1  tvg-logo="", CANAL 16
+
 #EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-p4F59EIc5ts/XA3r2vE-6zI/AAAAAAAAAow/1lPlNgcXyKYIwOOCaYgY7cQRz5__GUO3gCLcBGAs/w1200-h630-p-k-no-nu/taber-tv.jpg", CANAL 17 | Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/videotabertv/playlist.m3u8?DVR
+
+#EXTINF:-1  tvg-logo="", CANAL 18
 
 
 #EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-19-El-Salvador-en-vivo-Online.png", CANAL 19 | MEGANOTICIAS 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
+#EXTINF:-1  tvg-logo="", CANAL 20
 
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-21-nacional_m.png", CANAL 21 | MEGAVISION
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
