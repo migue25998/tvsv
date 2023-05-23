@@ -1,16 +1,21 @@
 #EXTM3U
+
+TCS HD
+https://telecorporacion.cdn.vustreams.com/live/726a64c2-160f-4974-8b2f-72a11efb188a/live.isml/726a64c2-160f-4974-8b2f-72a11efb188a.m3u8
+
 #EXTINF:-1  tvg-logo="", CANAL 1 | CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png", CANAL 2 | TCS Canal 2 
 https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/.m3u8
 
-#EXTINF:-1  tvg-logo="", CANAL 3 | DW 
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png", CANAL 4 |TCS Canal 4
-dev.movilesypc.com/hls/canal4.m3u8
- 
+#EXTINF:-1  tvg-logo="", CANAL 3 | DC4 SD
+http://dev.movilesypc.com/hls/canal4.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png", CANAL 4 |TCS Canal 4 HD
+https://telecorporacion-es.cdn.vustreams.com/live/e5f33de7-8fad-4766-b51d-e782a32ef34a/live.isml/e5f33de7-8fad-4766-b51d-e782a32ef34a.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png", CANAL 5 | TCS PLUS
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/d17513a3-9de2-47e3-b15a-899fd5f5877e.m3u8
  
@@ -59,8 +64,8 @@ http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-19-El-Salvador-en-vivo-Online.png", CANAL 19 | MEGANOTICIAS 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
-#EXTINF:-1  tvg-logo="", CANAL 20 | BEIN EXTRA
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1  tvg-logo="", CANAL 20 |DW 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-21-nacional_m.png", CANAL 21 | MEGAVISION
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
