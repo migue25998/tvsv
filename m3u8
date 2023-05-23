@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="", CANAL 1
+#EXTINF:-1  tvg-logo="", CANAL 1 | CARTOONITO
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png", CANAL 2 | TCS Canal 2 
 https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/.m3u8
 
-#EXTINF:-1  tvg-logo="", CANAL 3
+#EXTINF:-1  tvg-logo="", CANAL 3 | DW 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png", CANAL 4 |TCS Canal 4
-
+dev.movilesypc.com/hls/canal4.m3u8
  
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png", CANAL 5 | TCS PLUS
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/d17513a3-9de2-47e3-b15a-899fd5f5877e.m3u8
@@ -15,7 +17,8 @@ https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f58
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png", CANAL 6 | TCS Canal 6
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
 
-#EXTINF:-1  tvg-logo="", CANAL 7
+#EXTINF:-1  tvg-logo="", CANAL 7 | RT ESPAÑOL
+https://rt-esp.rttv.com:443/live/rtesp/playlist_800Kb.m3u8
 
 #EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Agape-Canal-8.png", CANAL 8 | Agape TV
 https://usher.ttvnw.net/api/channel/hls/agapetv8.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=9696345&play_session_id=be32904f673005f93fcb5c220990fd89&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=a70d90cd76c3eac5fb963d7c6278877a349f4928&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22agapetv8%22%2C%22channel_id%22%3A767084046%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22835d77ff9dae2f8a%22%2C%22expires%22%3A1683594673%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.61.112.97%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.18.0
@@ -32,24 +35,31 @@ https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png", CANAL 12 | RSM Canal 12
 https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8
 
-#EXTINF:-1  tvg-logo="", CANAL 13
+#EXTINF:-1  tvg-logo="", CANAL 13 | NICK CLASICO JR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1  tvg-logo="", CANAL 14
+#EXTINF:-1  tvg-logo="", CANAL 14 | NICK JR CLUB
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1  tvg-logo="", CANAL 15
+#EXTINF:-1  tvg-logo="", CANAL 15 | BOB ESPONJA
+https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1  tvg-logo="", CANAL 16
+#EXTINF:-1  tvg-logo="", CANAL 16 | http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-p4F59EIc5ts/XA3r2vE-6zI/AAAAAAAAAow/1lPlNgcXyKYIwOOCaYgY7cQRz5__GUO3gCLcBGAs/w1200-h630-p-k-no-nu/taber-tv.jpg", CANAL 17 | Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/videotabertv/playlist.m3u8?DVR
 
-#EXTINF:-1  tvg-logo="", CANAL 18
+#EXTINF:-1  tvg-logo="", CANAL 18 | TVU 
+http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
+
 
 
 #EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-19-El-Salvador-en-vivo-Online.png", CANAL 19 | MEGANOTICIAS 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
-#EXTINF:-1  tvg-logo="", CANAL 20
+#EXTINF:-1  tvg-logo="", CANAL 20 | BEIN EXTRA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-21-nacional_m.png", CANAL 21 | MEGAVISION
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
@@ -75,6 +85,171 @@ https://usher.ttvnw.net/api/channel/hls/tvmelsalvador.m3u8?acmb=e30%3D&allow_sou
 
 #EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-27-Elim-TV-en-vivo-Online.png", CANAL 27 | Elim TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/manifest.m3u8?p=79&h=973bf97fb3d1a1543819421ef2849f09
+
+
+......................................................................................................................
+
+
+#EXTINF:-1,ESPN 1 MX
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/35.m3u8
+#EXTINF:-1,ESPN 2 MX
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/36.m3u8
+#EXTINF:-1,ESPN 2 US
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/37.m3u8
+#EXTINF:-1,Fox Deportes
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/38.m3u8
+#EXTINF:-1,Fox Sports 1 MX
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
+#EXTINF:-1,UFC TV
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/47.m3u8
+#EXTINF:-1,Toros TV
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/46.m3u8
+#EXTINF:-1,IZZI Afizzionados
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/43.m3u8
+#EXTINF:-1,Fox Sports MX
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/42.m3u8
+#EXTINF:-1,Sony
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/53.m3u8
+#EXTINF:-1,TNT
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/57.m3u8
+#EXTINF:-1,Disney XD
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/63.m3u8
+#EXTINF:-1,Baby TV
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/60.m3u8
+#EXTINF:-1,Warner Channel
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/59.m3u8
+#EXTINF:-1,Fox Premium
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/69.m3u8
+#EXTINF:-1,FX 
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/70.m3u8
+#EXTINF:-1,HBO Family
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/73.m3u8
+#EXTINF:-1,Animal Planet
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/75.m3u8
+#EXTINF:-1,Azteca Uno
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/82.m3u8
+#EXTINF:-1,SYFY
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/80.m3u8
+#EXTINF:-1,Multimedios MTY
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/89.m3u8
+#EXTINF:-1,CNN Internacional
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/92.m3u8
+#EXTINF:-1,ES: Antena 3
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/96.m3u8
+#EXTINF:-1,Telehit
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/95.m3u8
+#EXTINF:-1,MTV Hits
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/94.m3u8
+#EXTINF:-1,VH1
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/107.m3u8
+#EXTINF:-1,MTV Live
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/108.m3u8
+#EXTINF:-1,ABC News
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/110.m3u8
+#EXTINF:-1,Once TV
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/111.m3u8
+#EXTINF:-1,A+
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/113.m3u8
+#EXTINF:-1,AZ Corazon
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/117.m3u8
+#EXTINF:-1,Discovery TLC
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/124.m3u8
+#EXTINF:-1,Adrenalina Sport
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/140.m3u8
+#EXTINF:-1,Televisa MTY
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/143.m3u8
+#EXTINF:-1,ES: Movistar Drama
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/146.m3u8
+#EXTINF:-1,Baby First
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/150.m3u8
+#EXTINF:-1,Telemundo
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/155.m3u8
+#EXTINF:-1,CO: Caracol
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/157.m3u8
+#EXTINF:-1,ABC (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/159.m3u8
+#EXTINF:-1,CBS Sports Network (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/161.m3u8
+#EXTINF:-1,NBC NY (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/164.m3u8
+#EXTINF:-1,NBC Universo (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.m3u8
+#EXTINF:-1,BBC America (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/166.m3u8
+#EXTINF:-1,ESPN (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/167.m3u8
+#EXTINF:-1,FOX (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/168.m3u8
+#EXTINF:-1,Tennis Channel (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/171.m3u8
+#EXTINF:-1,TNT (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/172.m3u8
+#EXTINF:-1,Univision (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/173.m3u8
+#EXTINF:-1,Galavision (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/174.m3u8
+#EXTINF:-1,Bein Sports Esp
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/176.m3u8
+#EXTINF:-1,PELEA CANELO OP2
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/177.m3u8
+#EXTINF:-1,A and E
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/178.m3u8
+#EXTINF:-1,Golden
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/181.m3u8
+#EXTINF:-1,HBO Signature
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/182.m3u8
+#EXTINF:-1,Garage TV
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/184.m3u8
+#EXTINF:-1,MLB NETWORK (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/188.m3u8
+#EXTINF:-1,Showtime (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/189.m3u8
+#EXTINF:-1,Starz (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/190.m3u8
+#EXTINF:-1,USA Network (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/191.m3u8
+#EXTINF:-1,Bravo (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/192.m3u8
+#EXTINF:-1,Lifetime (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/193.m3u8
+#EXTINF:-1,Blue Hustler
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/199.m3u8
+#EXTINF:-1,Telecinco
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/203.m3u8
+#EXTINF:-1,DAZN 3
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/205.m3u8
+#EXTINF:-1,Telecinco 2
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/207.m3u8
+#EXTINF:-1,GolTV
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/208.m3u8
+#EXTINF:-1,DAZN 4
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/211.m3u8
+#EXTINF:-1,PELEA Canelo
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/214.m3u8
+#EXTINF:-1,HBO Plus
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/215.m3u8
+#EXTINF:-1,Discovery Science
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/216.m3u8
+#EXTINF:-1,Discovery Theater
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/217.m3u8
+#EXTINF:-1,El Gourmet
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/219.m3u8
+#EXTINF:-1,Investigation Discovery
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/220.m3u8
+#EXTINF:-1,Fox Sport 1 (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/221.m3u8
+#EXTINF:-1,Fox Sport 2 (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/222.m3u8
+#EXTINF:-1,HBO 2 (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/223.m3u8
+#EXTINF:-1,HBO Family (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/224.m3u8
+#EXTINF:-1,HGTV (USA)
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/225.m3u8
+#EXTINF:-1,CO: Caracol Op2
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/226.m3u8
+#EXTINF:-1,Discovery Turbo OP2
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/229.m3u8
 
 
 
