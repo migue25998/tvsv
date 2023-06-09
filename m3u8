@@ -107,6 +107,8 @@ https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
 
 ......................................................................................................................
 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Ben-10-logo-720x473.png" group-title="24/7",BEN 10
+http://51.159.104.29:8080/ben10/index.m3u8
 
 #EXTINF:-1,ESPN 1 MX
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/35.m3u8
