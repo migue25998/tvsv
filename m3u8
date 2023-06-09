@@ -75,7 +75,7 @@ https://usher.ttvnw.net/api/channel/hls/canaltvx.m3u8?acmb=e30%3D&allow_source=t
 
 
 #EXTINF:-1  tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/8a/d3/b4/8ad3b412-70af-58e5-3df0-28e5e9b7d26e/source/512x512bb.jpg", CANAL 23 | TVO 
-https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjMgMTI6NDk6MTYgQU0maGFzaF92YWx1ZT0zendSNm02Q2RjblZGR2taRlRqRTVBPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png", CANAL 24 | Wow TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
@@ -93,6 +93,16 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/m
 
 #EXTINF:-1  tvg-logo="", CANAL 28 | CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+CANAL 57 | RTV
+https://streaming.grupocsanetwork.net:3424/canal57/canal57/playlist.m3u8
+
+
+CANAL 65 | MIRATEVE
+https://panel.streamingtv-mediacp.online:1936/tv65/tv65/chunklist_w17059926.m3u8
+
+CANAL 78 | TRV
+https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
 
 
 ......................................................................................................................
